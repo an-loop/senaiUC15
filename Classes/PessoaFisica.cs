@@ -59,5 +59,10 @@ namespace Back_End_ER02.Classes
 
             return false;
         }
+
+        internal bool ValidarDataNasc(object dataNasc)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

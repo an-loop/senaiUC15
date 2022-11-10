@@ -13,3 +13,11 @@ C:\Users\senaisp\Desktop\Aulas\04-10-22\TurmaOi\Back-End-ER02\obj\Debug\net6.0\r
 C:\Users\senaisp\Desktop\Aulas\04-10-22\TurmaOi\Back-End-ER02\obj\Debug\net6.0\Back-End-ER02.pdb
 C:\Users\senaisp\Desktop\Aulas\04-10-22\TurmaOi\Back-End-ER02\obj\Debug\net6.0\Back-End-ER02.genruntimeconfig.cache
 C:\Users\senaisp\Desktop\Aulas\04-10-22\TurmaOi\Back-End-ER02\obj\Debug\net6.0\ref\Back-End-ER02.dll
+C:\Users\amand\OneDrive\Documentos\Senai - projetos\senaiUC15\obj\Debug\net6.0\Back-End-ER02.csproj.AssemblyReference.cache
+C:\Users\amand\OneDrive\Documentos\Senai - projetos\senaiUC15\obj\Debug\net6.0\Back-End-ER02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\OneDrive\Documentos\Senai - projetos\senaiUC15\obj\Debug\net6.0\Back-End-ER02.AssemblyInfoInputs.cache
+C:\Users\amand\OneDrive\Documentos\Senai - projetos\senaiUC15\obj\Debug\net6.0\Back-End-ER02.AssemblyInfo.cs
+C:\Users\amand\OneDrive\Documentos\Senai - projetos\senaiUC15\obj\Debug\net6.0\Back-End-ER02.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive\Documentos\Senai - projetos\senaiUC15\obj\Debug\net6.0\Back-End-ER02.dll
+C:\Users\amand\OneDrive\Documentos\Senai - projetos\senaiUC15\obj\Debug\net6.0\refint\Back-End-ER02.dll
+C:\Users\amand\OneDrive\Documentos\Senai - projetos\senaiUC15\obj\Debug\net6.0\Back-End-ER02.pdb

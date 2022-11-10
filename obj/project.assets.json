@@ -8,24 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\senaisp\\.nuget\\packages\\": {}
+    "C:\\Users\\amand\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\senaisp\\Desktop\\Aulas\\04-10-22\\TurmaOi\\Back-End-ER02\\Back-End-ER02.csproj",
+      "projectUniqueName": "C:\\Users\\amand\\OneDrive\\Documentos\\Senai - projetos\\senaiUC15\\Back-End-ER02.csproj",
       "projectName": "Back-End-ER02",
-      "projectPath": "C:\\Users\\senaisp\\Desktop\\Aulas\\04-10-22\\TurmaOi\\Back-End-ER02\\Back-End-ER02.csproj",
-      "packagesPath": "C:\\Users\\senaisp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\senaisp\\Desktop\\Aulas\\04-10-22\\TurmaOi\\Back-End-ER02\\obj\\",
+      "projectPath": "C:\\Users\\amand\\OneDrive\\Documentos\\Senai - projetos\\senaiUC15\\Back-End-ER02.csproj",
+      "packagesPath": "C:\\Users\\amand\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\amand\\OneDrive\\Documentos\\Senai - projetos\\senaiUC15\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\senaisp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\amand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
