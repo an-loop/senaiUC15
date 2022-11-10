@@ -1,27 +1,29 @@
-# Cadastro de Pessoas
+# Senai UC15
 
-## Menu de opções para efetuar cadastro de pessoas físicas ou jurídicas.
+## Cadastro de Pessoas
 
-
-# Funcionalidades:
-
-## cadastrar pessoa física
-## cadastrar pessoa jurídica
-## salvar dados em arquivo txt ou csv
+#### Menu de opções para efetuar cadastro de pessoas físicas ou jurídicas.
 
 
-# Requisitos e Tecnologias
+## Funcionalidades:
 
-## Linguagem C#
-## .Net 6
-## IDE Visual Studio Code.
-
-
-# Como utilizar
-
-## clonar repositório e executar o comando dotnet run
+#### cadastrar pessoa física
+#### cadastrar pessoa jurídica
+#### salvar dados em arquivo txt ou csv
 
 
-# Contribuidores:
+## Requisitos e Tecnologias
 
-## Amanda Lopes
+#### Linguagem C#
+#### .Net 6
+#### IDE Visual Studio Code.
+
+
+## Como utilizar
+
+#### clonar repositório e executar o comando dotnet run
+
+
+## Contribuidores:
+
+#### Amanda Lopes
